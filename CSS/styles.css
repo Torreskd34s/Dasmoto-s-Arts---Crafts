@@ -1,8 +1,4 @@
 
-header{
-    background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg);
-    overflow: auto;
-}
 
 h1{
     font-family: Helvetica, sans-serif;
@@ -10,13 +6,15 @@ h1{
     font-weight: bold;
     color: khaki;
     text-align: center;
+    background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg);
+    overflow: auto;
 }
 
 h2{
     font-family: Helvetica, sans-serif;
     font-size: 32px;
     font-weight: bold;
-    color: white;
+    color: white;z
 }
 
 #brush-bg{
